@@ -1,0 +1,58 @@
+p {
+  font-family: "Source Sans Pro";
+}
+
+.main-button{
+    border-radius: 3px;
+    padding: 9px 20px;
+    font-size: 16px;
+    display: inline-block;
+    line-height: 1.4;
+    vertical-align: middle;
+}
+
+
+.button_expo{
+    background-color:#A52572;
+    padding: 10px;
+    transform:rotate(90deg);
+    text-decoration: none;
+    vertical-align: center;
+    border-style: none;
+    color:#E5F072;
+    font-weight: 900;
+    font-size: 15px;
+    width: 270px;
+    height:58px;
+    left: 662px;
+    top: 1066px;
+
+}
+
+.button_billeterie {
+  position: absolute;
+  width:174px;
+  height: 46px;
+  background-color: #CCFAF3;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 30px;
+  border-style: none;
+
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: #FC5036;
+  text-transform: uppercase;
+}
+
+.button_plus{
+  position: absolute;
+  height: 27px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 27px;
+  font-size: 20px;
+  color: #CCFAF3;
+  border-style: none;
+
+}

@@ -1,0 +1,15 @@
+//base imports
+@import "scss/base/reset";
+@import "scss/base/variables";
+@import "scss/base/globals";
+@import "scss/base/helpers";
+
+//components imports
+@import "scss/components/atoms/buttons";
+@import "scss/components/atoms/time";
+@import "scss/components/atoms/calendar";
+@import "scss/components/atoms/text";
+@import "scss/components/atoms/title";
+
+//global styling imports
+@import "scss/main";

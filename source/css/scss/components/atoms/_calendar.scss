@@ -1,0 +1,17 @@
+.calendar {
+  font-style: normal;
+  font-weight: normal;
+  line-height: 27px;
+  font-size: 20px;
+  color: #CCFAF3;
+
+  p{
+    font-family: "Source Sans Pro";
+    display: inline-block;
+  }
+
+  .svg_calendar{
+    display: flex;
+    display: inline-block;
+  }
+}
